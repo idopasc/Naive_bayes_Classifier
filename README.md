@@ -1,1 +1,1 @@
-# Naive-bayes-learning-curve-and-grid-search
+# Naive_Bayes_Classifier
